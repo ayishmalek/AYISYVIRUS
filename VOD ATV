@@ -8,7 +8,245 @@
 ================================================= AYISY UPDATE MOVIE 2024 =======================================================
 =================================================================================================================================
 
+#EXTINF:-1 group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/shop/625ccea87c5e564d104364cf_movies-pack-icon.png"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4345820923989ddd944df474686e5910:56a58cef3c15b53accbbf5ac795f478a
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOJAS_IVP_LAND_586x330_2024821_14847.jpg", Zim ZIm Ala Kazim (Tamat 31Aug)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b83f477d-dcda-55ec-956d-8919e1d52f4a/default_dash.mpd
 
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/122/2024/06/09205834/longlegs-scaled.jpeg",long legs
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/nflix/long%20legs/manifest.mpd
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMzM2U5NDUtMTQ1Mi00YWRiLWFkNzMtYWQ0MjQ5ZDVmNzMzXkEyXkFqcGc@._V1_.jpg",Pechi
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/indian/pechi/manifest.mpd
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE0YWU1MmEtN2FhMS00NzBlLWE3MTgtMWZkYjdmNDg5ZTFiXkEyXkFqcGc@._V1_.jpg",sector 36
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/indian/sector%2036/manifest.mpd
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDhkMzQzZmQtOGQ1NS00Y2FhLTkzYjAtNWE1MmRiOWM1MjUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Borderland
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/nflix/borderland/manifest.mpd
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA3MjQ4MzMtMTJkMi00MjFhLWI5YzYtOTliNTQ5YzU1NjgyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Moro
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/nflix/moro/playlist.m3u8
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y2NGU3NmMtMGU1Zi00NGU5LWE0NmItYmE4ZjUwYmJkZjY5XkEyXkFqcGc@._V1_.jpg",Indian 2
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/indian/indian%202/manifest.mpd
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://cdn.prod.website-files.com/5e95052cfabd4e155de8a3cf/660c2ff1c679395806fed76d_1_Sheet_AW_Cuckoo_HUNTER_Headband_ph.jpg", Cuckoo 2024
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/nflix/cuckoo/manifest.mpd
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc2NzI1OGMtMjRiOC00MzNjLWJlNmQtZWMwNmIwYmY4MGJiXkEyXkFqcGc@._V1_.jpg",AAY 2024
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/indian/aay%202024/manifest.mpd
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/fo_payoff_poster_generic_550ee00e.jpeg",The first omen 2024
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/malay/The%20first%20omen/manifest.mpd
+
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyV6rtrzSY_L2QhCp7FXLA-IfeO2n-A6jpKHge96MydKO0qsykV6RJEkEsobu0B3XMWPsRrHD6T_QBGwHZMwoVkSYyVmKaY6ownhmwkKhjR7wQhDkMLj-C-ekWd2kqWFD9kRUyQHhA8PxajWmpU8UZQrw4-byu3Cay1bjUFrbFX2ygiVqLVYaaowhCei5/w0/Terompak%20Sana%20Tertukar%20Sini.jpg",Moro
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/malay/terompak-sana-tertukar-sini/playlist.m3u8
+
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a3aa12eeae2147ac82a8aa2e6198706e/version/4/width/1280/height/720",Lion girl
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/malay/lion%20girl/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=543f69922ba801227a2e56cc9ddbc310:b4805c676bf7bcde46bff8f9ee11c576
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNWKG_IVP_LAND_367x207_2024823_14029.jpg", Vacancy 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cf4a32cb-c7ce-50c4-84f2-b8a2e5f455ea/default_dash.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2073ab6195b419e94640ba40c630c710:54becd84af8fc096cf88e4655369ee2f
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMOTS_IVP_LAND_586x330_2024816_171450.jpg", Noryang Deadly Sea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/877cbc12-235e-51d9-a460-3f34e5515bac/default_dash.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=168ed93a7d22cf2027b4a342dbdad610:aa2304561003e704b9a606885722ae31
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMOVE_IVP_LAND_448x252_7CC6C_202498_12751.jpg", aavi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2e47f53e-410d-57c8-bd7b-77cd5f1307cc/default_dash.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d9ce7b1a49193875224e7e1db205310:dc9c3a7cfd31c398a1905439fbfda422
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFPVS_Series_IVP_LAND_586x330_667A0_2024313_182631.jpg", Dendam Hantu Latah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e3303654-7e3a-54e1-99e2-f8b250c56961/default_dash.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2e77292bb51c8063a630d7cc5e2f410:cb77e6b5a47ba4f11ee444c932ea70bb
+#EXTINF:-1 group-title="20AYISH UPDATE 202424" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOKTC_Series_IVP_LAND_448x252_7C15F_2024830_121017.jpg", Rombongan Mak Cik Kiah Ke Dataran Merdeka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d05cd723-ddb5-524b-9db4-9315fab288bf/default_dash.mpd
+https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_nuc1w2eb/v/1/ev/8/flavorId/1_,hh0gekvf,xnrguj7h,npbx9vr6,d8d9ln7w,hf4w2zg6,90amspzg,ymkym2o5,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOOHH_IVP_LAND_586x330_2024829_114648.jpg" group-title="AYISH UPDATE 2024",Watchers
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1d8aeb2476b6e4cb5c0168e6bac510:bf567313551faae1c8f6ddbbc71c08dc
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8cbcca79-3d40-5aec-a11e-6286f26faab3/default_dash.mpd
+
+
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOJAS_IVP_LAND_586x330_2024821_14847.jpg", Zim ZIm Ala Kazim backup
+https://drive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Zim.Zim.Ala.Kazim.2024.1080p.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QQ1UpciSHto/maxresdefault.jpg" group-title="AYISH UPDATE 2024",Mungkar (2024)
+https://rkh.nexusbenelli.workers.dev/download.aspx?file=3qPFg%2B9XqRibp965OObTGg5GJs%2FvRQUTCZmjjC6tlEB2kwPMe%2FqN%2BSd5yXzeYgqv&expiry=FopVHJFSBivTeQgpiqldnw%3D%3D&mac=70ac9a85990c5b0ab4c7cb0366419350f9100e86390b22efb6fa3953af6f6df0
+
+#EXTINF:-1 tvg-logo="https://assets.voxcinemas.com/posters/P_HO00011198.jpg" group-title="AYISH UPDATE 2024",Golam (2024)
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/indian/Golam.mp4?uuid=rkh
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEzYjU4MTgtOWM0MC00NThiLThhNTgtYmU4NmY0MWIxMWY3XkEyXkFqcGdeQXVyMTc3MDc1MDQ0._V1_FMjpg_UX1000_.jpg" group-title="AYISH UPDATE 2024",Rooban (2024)
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/indian/Rooban 2024.mp4
+
+#EXTINF:-1 tvg-logo="https://images.static-bluray.com/products/20/158530_1_front.jpg" group-title="AYISH UPDATE 2024",Hijack 1971 (2024)
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/oppa/hijack 1971.mp4?uuid=rkh
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/nzKWC2Gv0sOnkki5ZiqzD/408ca6fa123b048f59a94a0c863e7020/en_us_mc_main_main_ka_vertical_27x40_rgb_pre_1.jpg?" group-title="AYISH UPDATE 2024",mission cross (2024)
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/oppa/mission.cross.mp4?uuid=rkh
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI4NmNlNDEtYjFmNS00N2U2LThiMmYtMDExYTc2ODNmOGEzXkEyXkFqcGdeQXVyMzE3OTE0NjQ@._V1_FMjpg_UX1000_.jpg" group-title="AYISH UPDATE 2024",Patna Shukla
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/indian/Patna Shuklla (2024) Hindi Subs Indo.mp4?uuid=rkh
+
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/nPMPiDkAI2n4u3vFBuAZnZgmMLS.jpg" group-title="AYISH UPDATE 2024",diwe hutan larangan 2024
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/indo/diwe.mp4?uuid=rkh
+
+
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/7-g-et00403232-1719824679.jpg" group-title="AYISH UPDATE 2024",7G
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/indian/7g.mp4?uuid=rkh
+
+#EXTINF:-1 tvg-logo="https://dvvy6louqcr7j.cloudfront.net/vista/HO00014942/heroPoster/Twisters.png" group-title="AYISH UPDATE 2024",Twister
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/nflix/twsiter.mp4
+
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://pics.filmaffinity.com/All_the_Long_Nights-137956574-large.jpg",All The Long Night
+https://rkh.nexusbenelli.workers.dev/download.aspx?file=f6iDMoOGl1OHbkcDm8kiKNuLyK17NgexrioiL4sA8fLATH9IoTsQ0xAE9YvGh9Hj&expiry=i%2BtXjW0Vv%2BUYV5XPU6VBGw%3D%3D&mac=c8ecef0a5027cd9c59cfe7c0ea4ea310d2faa04e25dd3ab9e218132b0b2252dd
+
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2024/03/Bhaiyya-Ji.jpeg",Bhaiyaa Ji
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/indian/Bhaiya Ji.mp4?uuid=rkh
+
+
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNNAS_IVP_LAND_917x516_2024729_193227.jpg" codec="external" group-title="AYISH UPDATE 2024",The Experts (2024)
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/malay/The.Experts.2024.1080p.mkv
+
+
+#EXTINF:-1 tvg-logo="https://sediksi.com/wp-content/uploads/2023/07/Film-tari-Kematian.png" group-title="AYISH UPDATE 2024",Tari kematian (2024)
+https://rkh.nexusbenelli.workers.dev/download.aspx?file=RVth6q8Y%2FPS94AI6dqvaeMSKiRapkNHrOVHO3sx%2BNdbA%2F%2Fr6gFuJSElMDjJSSrda&expiry=FopVHJFSBivTeQgpiqldnw%3D%3D&mac=aa4aa020668c9cd0938ec97cb3c8292ede25b484255b526a243c47f8364b86b8
+
+
+#EXTINF:-1 group-logo="https://www.theartistree.fm/wp-content/uploads/2021/01/F2673C25-144B-4AF1-829E-3B39644FEB27.jpeg"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=319b72818e5bab7a754db7c451425a10:676ecd6239226626017367c017aab603
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt14539740%2F&psig=AOvVaw0TPDNfM8HlhFQdMacTGCfG&ust=1716274155953000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC3j83Rm4YDFQAAAAAdAAAAABAE",Godzilla x Kong (2024)
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f68eead3-7900-5dd8-8990-eacc3545df88/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e01f749167dc2deba29762cdf753610:2159637593ac5a3510f396778632bafe
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.ibb.co/bbWkq4w/MV5-BZm-Zj-Yz-E1-M2-Ut-Yj-I0-My00-Yz-Vk-LTky-Y2-Qt-NTIy-Zm-Y2-OTkw-ZDE4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIw-N.jpg",Koklir 2023
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9e39e22f-a768-55c6-8a05-bac616f4ec86/default_primary.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8bca1d97bcb216b6504deb6e68c1310:e0a52a030e398e345c623f4de59e7042
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg", Dune: Part Two (2024) 
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3ec3d9dc-5cdd-5373-af9c-d1ceb4dfdf92/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJiMzQ4ZGItMjczYS00MzM1LWI5NGMtNzBiYzExZGRmMGZkXkEyXkFqcGdeQXVyNTQ5ODMzODg@._V1_.jpg" group-title="AYISH UPDATE 2024", Dendam Hantu Viral (2024)
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/malay/Telefilem Dendam Hantu Viral (2024) 1080p MalaySub.mp4?uuid=rkh
+
+#EXTINF:-1 tvg-logo="https://www.vietnam.vn/wp-content/uploads/2024/01/1704902650_950_Trailer-phim-Mai-he-lo-canh-nong-cua-Phuong-Anh.jpg" group-title="AYISH UPDATE 2024",Mai (2024)
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/nflix/Mai.mp4?uuid=rkh
+
+
+#EXTINF:-1 tvg-logo="https://www.vietnam.vn/wp-content/uploads/2024/01/1704902650_950_Trailer-phim-Mai-he-lo-canh-nong-cua-Phuong-Anh.jpg" group-title="AYISH UPDATE 2024",Mai (2024)
+https://rkh.nexusbenelli.workers.dev/download.aspx?file=Uhk2Y6GRsFq6njaD6vo4qfn7MUkXwqNd%2FPAfRYJsKWlFn0lqMmtD4wWIGV30cLhM&expiry=7MEP4tKU%2BFAHq2GagJ0syQ%3D%3D&mac=f0b9d88567433a9a15352d279bccd306756ee0c86d15866dfc8cf76852cb51c3
+
+#EXTINF:-1 tvg-logo="https://images.filmibeat.com/img/popcorn/movie_posters/kill-20240210123456-22577.jpg" group-title="AYISH UPDATE 2024",Kill (2024)
+https://rkh.nexusbenelli.workers.dev/download.aspx?file=dt8DS%2BUFjnCfwIE2AdAgMKHpVbRnO4OyiQX2xRr3vV2ULPmn0S5diSetje7to5d%2F&expiry=tNfI4VN5p8UAqfchclvujA%3D%3D&mac=3f7b16d73e6b1e400cbe46e31c475ecd4d10066df64bc3c92c8cf9801ef93f41
+
+
+
+
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://fr.web.img4.acsta.net/pictures/24/01/15/10/00/5798065.jpg", Under Paris
+https://rkh.nexusbenelli.workers.dev/download.aspx?file=5g91WvhdSAY%2F8BZ7u0m9zPiBuIZ71siVWQEVpZcmmUf2mJ0DJL8VNlBQTxhzx8mE&expiry=usBuCV%2Fco8uA3Dc%2FuEVDkg%3D%3D&mac=9dc3313ddf64f0701cf6c1fbac7a419a4e4278ce52932ee1c2ce035d164883cd
+
+
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://img.nowrunning.com/content/movie/2024/mahar-28590/bg_maharaja.jpg", Maharaja
+https://od.tvpm.cc:443/movie/playlist/home3585/7392.mp4
+
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/183/2023/12/12/Kereta-Berdarah-siap-berikan-teror-pada-1-Februari-2024-580173603.jpg", Kereta Berdarah
+https://od.tvpm.cc:443/movie/playlist/home3585/7395.mp4
+
+
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://image.tmdb.org/t/p/original/fwAXx83bSpIqGlHfCPgAfMlS1Bg.jpg", Maidaan (2024)
+https://rkh.nexusbenelli.workers.dev/download.aspx?file=%2Ff%2FM1veC5fgCs1LfRh4UwzbW2HmTXZ9gFbOXHP2m%2FGFrGX1%2FyecgMOHZ5TryX1hV&expiry=8VgMBWyj8Sf34KYZUc9I2Q%3D%3D&mac=10437fd0c9dd6c6eb1ff7e8074ff288b11dc0cafcdeffeb30ebd615efce3403b
+
+
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjViNTVhY2QtZjE1OS00OWIyLTkyM2EtNmYwOTA0ZTdkZDRmXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg", Agak Laen (2024)
+https://rkh.nexusbenelli.workers.dev/download.aspx?file=cNFZ0SykQttpXC0x9UuCA4euD0NN%2FR%2BYaXeb9dIrwcoLohjThT01T5iWxXR19t2B&expiry=9Y43suGORh%2BDp4AmsRUC0A%3D%3D&mac=4386cc56da5a3cc4e8ed59081daf1b881eec4771d9658cd5ff8547fc1526b35f
+
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://image.tmdb.org/t/p/original/vbI5h1Enc3gscdmg7lRnG4jX4R7.jpg", A Quiet Place: Day One (2024)
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/nflix/quiet place.mp4?uuid=rkh
+
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://thefanboyseo.com/wp-content/uploads/2024/04/deadpool-wolverine-posters-1.jpg",Deadpool & Wolverine
+#EXTVLCOPT:http-referrer=rkhott2024
+https://rkhdigital.website/nflix/deadpool x wolverine.mp4
+
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.ytimg.com/vi/kAYOmh5Kh2U/maxresdefault.jpg", Die Hart 2 (2024)
+https://rkh.nexusbenelli.workers.dev/download.aspx?file=%2BUBlUM7%2B6Rv5j2GPL9nBlaBZacBsGhXOkvbGsBO3%2F9uC3A1xu64R9GVRJPZo%2FOVE&expiry=M8TL0FP%2F2bdPCaoC8UwoDQ%3D%3D&mac=153d2f021798e3f5a0b8d15d086844b894737db088cade508c6ae6c98cf1a1fc
+
+
+#EXTINF:-1 type="series" group-title="AYISH UPDATE 2024" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/atlas-movie-poster-showing-jennifer-lopez-looking-up-into-the-sky-flying-a-spaceship.jpg", Atlas (2024) HD
+https://rkh.nexusbenelli.workers.dev/download.aspx?file=zcuQVezsfYp5mOWUmTX5MTvVAkegZx%2BqedHRmnqI0hYHYMacUv%2BT6iQgaDf%2FnWz%2B&expiry=ry2134T3a9OyRfVDcFijbQ%3D%3D&mac=dfa215143c6921c74e148e41b0d7b4ee0b0e4f3bfcbe172a79b09f554b7fa08f
+
+#EXTINF:-1 type="series" group-title="AYISH UPDATE 2024" tvg-logo="https://www.allentheatresinc.com/modules/movies/content/uploads/furiosa_a_mad_max_saga/furiosa_final.jpg", Furiosa: A Mad Max Saga (2024)
+https://rkh.nexusbenelli.workers.dev/download.aspx?file=UPtO0lBrwpRpgJm7%2FxOyXE0YvmMLu6dbMk7sF%2FZMIJerCmzZcdPjgwwJichmxS9C&expiry=EQBwv2qHu68alCCANNKMnQ%3D%3D&mac=6bfb7e267701991dcd4370569030bc97a381f02f84b687cf7fa9f0b172efccbf
+
+
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cEaQcjJ54T480chHkfuATPMXqKP.jpg", Ooru Peru Bhairavakona (2024) 
+https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaeZzsqvvHVLtmt_gD3fuU4BcVckc-hUJ0OXfa--yUL00g
+
+#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s5pdvbLzQ2mt7G7A4ceGUUjhO7E.jpg", Anweshippin Kandethum (2024)
+https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbCjc_HJkXVGlwy0U2i4GWABFU-dqagsjC3nj7uscUydnQ
 
 
 
@@ -41,32 +279,3 @@ https://stream.hownetwork.xyz/xxx/rab-ne-bana-di-jodi-2008-bluray/11/480.m3u8
 
 #EXTINF:-1 type="" group-title="AYISH MOVIE ONLINE REQUEST" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRmNjBiNGMtYWFkNS00NTliLWI5YzgtNjM1Mzc0Yjg1NTM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",Flash Point (2007)
 https://storage.dewanonton.online/hls/b0dcb76d-8eb2-4353-a10f-0f3a75aae90f.mp4/index.m3u8
-
-
-
-=================================================================================================================================
-================================================= AYISY TELEFILEM MELAYU ========================================================
-=================================================================================================================================
-
-
-
-#EXTINF:-1 type="" group-title="AYISH TV TELEFILEM MELAYU" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/AKAK-MEKANIK-POSTER.jpg",Akak Mekanik
-https://d13snj70thqlha.cloudfront.net/9c6a0e0d-9400-41fe-aff1-12bd6dea643e/AkakMekanik-20221118_1.m3u8
-
-#EXTINF:-1 type="" group-title="AYISH TV TELEFILEM MELAYU" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/RAMONA-BERTANDING-POSTER.jpg",Ramona Bertanding Ketua kampung
-https://d13snj70thqlha.cloudfront.net/9f656250-7ee5-4cd9-94d1-9d120e53136b/manifest.m3u8
-
-#EXTINF:-1 type="" group-title="AYISH TV TELEFILEM MELAYU" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/PUAN-BOS-POSTER.jpg",Puan BOSS
-https://d13snj70thqlha.cloudfront.net/9796e0c4-f8ec-4926-88c6-ab5131b0ec27/PuanBos-20240504.m3u8
-
-#EXTINF:-1 type="" group-title="AYISH TV TELEFILEM MELAYU" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/BAKAL-MENANTU-HAJAH-NORAINI-POSTER.jpg",Bakal Menantu Hajah Noraini
-https://d13snj70thqlha.cloudfront.net/80bc5189-352c-4027-985a-a7cd92986202/manifest.m3u8
-
-#EXTINF:-1 type="" group-title="AYISH TV TELEFILEM MELAYU" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/MEK-MINYAK-POSTER.jpg",Mek Minyak
-https://d13snj70thqlha.cloudfront.net/31240fca-c033-4875-94c3-f93c08d555ed/MekMinyak2016_1.m3u8
-
-#EXTINF:-1 type="" group-title="AYISH TV TELEFILEM MELAYU" tvg-logo="https://rtm-images.glueapi.io/320x426/program/SAKA-SCAMMER--POSTER.jpg",Saka Scammer
-https://d13snj70thqlha.cloudfront.net/6e9576d2-b947-4012-8ba1-a6dc829d2331/SakaScammer-20230717_1.m3u8
-
-#EXTINF:-1 type="" group-title="AYISH TV TELEFILEM MELAYU" tvg-logo="https://rtm-images.glueapi.io/220x300/movie/HARI-INI-SEMALAM-POSTER.jpg",Hari Ini Semalam
-https://d13snj70thqlha.cloudfront.net/48d39cc4-eccd-4cfa-ad52-ea19d55a7eb5/HariIniSemalam-20240831.m3u8
