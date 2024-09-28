@@ -93,7 +93,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2e77292bb51c8063a630d7cc5e2f410:cb77e6b5a47ba4f11ee444c932ea70bb
-#EXTINF:-1 group-title="20AYISH UPDATE 202424" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOKTC_Series_IVP_LAND_448x252_7C15F_2024830_121017.jpg", Rombongan Mak Cik Kiah Ke Dataran Merdeka
+#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOKTC_Series_IVP_LAND_448x252_7C15F_2024830_121017.jpg", Rombongan Mak Cik Kiah Ke Dataran Merdeka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d05cd723-ddb5-524b-9db4-9315fab288bf/default_dash.mpd
 https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_nuc1w2eb/v/1/ev/8/flavorId/1_,hh0gekvf,xnrguj7h,npbx9vr6,d8d9ln7w,hf4w2zg6,90amspzg,ymkym2o5,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
