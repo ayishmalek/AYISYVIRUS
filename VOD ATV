@@ -19,152 +19,152 @@ BUAT LAH SENDIRI.....................
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4345820923989ddd944df474686e5910:56a58cef3c15b53accbbf5ac795f478a
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOJAS_IVP_LAND_586x330_2024821_14847.jpg", Zim ZIm Ala Kazim (Tamat 31Aug)
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOJAS_IVP_LAND_586x330_2024821_14847.jpg", Zim ZIm Ala Kazim (Tamat 31Aug)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b83f477d-dcda-55ec-956d-8919e1d52f4a/default_dash.mpd
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/122/2024/06/09205834/longlegs-scaled.jpeg",long legs
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://s3.amazonaws.com/nightjarprod/content/uploads/sites/122/2024/06/09205834/longlegs-scaled.jpeg",long legs
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/nflix/long%20legs/manifest.mpd
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMzM2U5NDUtMTQ1Mi00YWRiLWFkNzMtYWQ0MjQ5ZDVmNzMzXkEyXkFqcGc@._V1_.jpg",Pechi
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMzM2U5NDUtMTQ1Mi00YWRiLWFkNzMtYWQ0MjQ5ZDVmNzMzXkEyXkFqcGc@._V1_.jpg",Pechi
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/indian/pechi/manifest.mpd
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE0YWU1MmEtN2FhMS00NzBlLWE3MTgtMWZkYjdmNDg5ZTFiXkEyXkFqcGc@._V1_.jpg",sector 36
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE0YWU1MmEtN2FhMS00NzBlLWE3MTgtMWZkYjdmNDg5ZTFiXkEyXkFqcGc@._V1_.jpg",sector 36
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/indian/sector%2036/manifest.mpd
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDhkMzQzZmQtOGQ1NS00Y2FhLTkzYjAtNWE1MmRiOWM1MjUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Borderland
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDhkMzQzZmQtOGQ1NS00Y2FhLTkzYjAtNWE1MmRiOWM1MjUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Borderland
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/nflix/borderland/manifest.mpd
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA3MjQ4MzMtMTJkMi00MjFhLWI5YzYtOTliNTQ5YzU1NjgyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Moro
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA3MjQ4MzMtMTJkMi00MjFhLWI5YzYtOTliNTQ5YzU1NjgyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Moro
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/nflix/moro/playlist.m3u8
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y2NGU3NmMtMGU1Zi00NGU5LWE0NmItYmE4ZjUwYmJkZjY5XkEyXkFqcGc@._V1_.jpg",Indian 2
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y2NGU3NmMtMGU1Zi00NGU5LWE0NmItYmE4ZjUwYmJkZjY5XkEyXkFqcGc@._V1_.jpg",Indian 2
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/indian/indian%202/manifest.mpd
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://cdn.prod.website-files.com/5e95052cfabd4e155de8a3cf/660c2ff1c679395806fed76d_1_Sheet_AW_Cuckoo_HUNTER_Headband_ph.jpg", Cuckoo 2024
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://cdn.prod.website-files.com/5e95052cfabd4e155de8a3cf/660c2ff1c679395806fed76d_1_Sheet_AW_Cuckoo_HUNTER_Headband_ph.jpg", Cuckoo 2024
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/nflix/cuckoo/manifest.mpd
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc2NzI1OGMtMjRiOC00MzNjLWJlNmQtZWMwNmIwYmY4MGJiXkEyXkFqcGc@._V1_.jpg",AAY 2024
+#EXTINF:-1 group-title="AYISH ADDED MOVIESAYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc2NzI1OGMtMjRiOC00MzNjLWJlNmQtZWMwNmIwYmY4MGJiXkEyXkFqcGc@._V1_.jpg",AAY 2024
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/indian/aay%202024/manifest.mpd
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/fo_payoff_poster_generic_550ee00e.jpeg",The first omen 2024
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/fo_payoff_poster_generic_550ee00e.jpeg",The first omen 2024
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/malay/The%20first%20omen/manifest.mpd
 
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyV6rtrzSY_L2QhCp7FXLA-IfeO2n-A6jpKHge96MydKO0qsykV6RJEkEsobu0B3XMWPsRrHD6T_QBGwHZMwoVkSYyVmKaY6ownhmwkKhjR7wQhDkMLj-C-ekWd2kqWFD9kRUyQHhA8PxajWmpU8UZQrw4-byu3Cay1bjUFrbFX2ygiVqLVYaaowhCei5/w0/Terompak%20Sana%20Tertukar%20Sini.jpg",Moro
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyV6rtrzSY_L2QhCp7FXLA-IfeO2n-A6jpKHge96MydKO0qsykV6RJEkEsobu0B3XMWPsRrHD6T_QBGwHZMwoVkSYyVmKaY6ownhmwkKhjR7wQhDkMLj-C-ekWd2kqWFD9kRUyQHhA8PxajWmpU8UZQrw4-byu3Cay1bjUFrbFX2ygiVqLVYaaowhCei5/w0/Terompak%20Sana%20Tertukar%20Sini.jpg",Moro
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/malay/terompak-sana-tertukar-sini/playlist.m3u8
 
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a3aa12eeae2147ac82a8aa2e6198706e/version/4/width/1280/height/720",Lion girl
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a3aa12eeae2147ac82a8aa2e6198706e/version/4/width/1280/height/720",Lion girl
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/malay/lion%20girl/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=543f69922ba801227a2e56cc9ddbc310:b4805c676bf7bcde46bff8f9ee11c576
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNWKG_IVP_LAND_367x207_2024823_14029.jpg", Vacancy 2
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNWKG_IVP_LAND_367x207_2024823_14029.jpg", Vacancy 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cf4a32cb-c7ce-50c4-84f2-b8a2e5f455ea/default_dash.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2073ab6195b419e94640ba40c630c710:54becd84af8fc096cf88e4655369ee2f
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMOTS_IVP_LAND_586x330_2024816_171450.jpg", Noryang Deadly Sea
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMOTS_IVP_LAND_586x330_2024816_171450.jpg", Noryang Deadly Sea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/877cbc12-235e-51d9-a460-3f34e5515bac/default_dash.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=168ed93a7d22cf2027b4a342dbdad610:aa2304561003e704b9a606885722ae31
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMOVE_IVP_LAND_448x252_7CC6C_202498_12751.jpg", aavi
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMOVE_IVP_LAND_448x252_7CC6C_202498_12751.jpg", aavi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2e47f53e-410d-57c8-bd7b-77cd5f1307cc/default_dash.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d9ce7b1a49193875224e7e1db205310:dc9c3a7cfd31c398a1905439fbfda422
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFPVS_Series_IVP_LAND_586x330_667A0_2024313_182631.jpg", Dendam Hantu Latah
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFPVS_Series_IVP_LAND_586x330_667A0_2024313_182631.jpg", Dendam Hantu Latah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e3303654-7e3a-54e1-99e2-f8b250c56961/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2e77292bb51c8063a630d7cc5e2f410:cb77e6b5a47ba4f11ee444c932ea70bb
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOKTC_Series_IVP_LAND_448x252_7C15F_2024830_121017.jpg", Rombongan Mak Cik Kiah Ke Dataran Merdeka
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOKTC_Series_IVP_LAND_448x252_7C15F_2024830_121017.jpg", Rombongan Mak Cik Kiah Ke Dataran Merdeka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d05cd723-ddb5-524b-9db4-9315fab288bf/default_dash.mpd
 https://vod-playback.sooka.my/edash/p/3089633/sp/308963300/serveFlavor/entryId/1_nuc1w2eb/v/1/ev/8/flavorId/1_,hh0gekvf,xnrguj7h,npbx9vr6,d8d9ln7w,hf4w2zg6,90amspzg,ymkym2o5,/forceproxy/true/name/a.mp4.urlset/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOOHH_IVP_LAND_586x330_2024829_114648.jpg" group-title="AYISH UPDATE 2024",Watchers
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOOHH_IVP_LAND_586x330_2024829_114648.jpg" group-title="AYISH ADDED MOVIES",Watchers
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab1d8aeb2476b6e4cb5c0168e6bac510:bf567313551faae1c8f6ddbbc71c08dc
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8cbcca79-3d40-5aec-a11e-6286f26faab3/default_dash.mpd
 
 
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOJAS_IVP_LAND_586x330_2024821_14847.jpg", Zim ZIm Ala Kazim backup
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOJAS_IVP_LAND_586x330_2024821_14847.jpg", Zim ZIm Ala Kazim backup
 https://drive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Zim.Zim.Ala.Kazim.2024.1080p.mkv
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QQ1UpciSHto/maxresdefault.jpg" group-title="AYISH UPDATE 2024",Mungkar (2024)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QQ1UpciSHto/maxresdefault.jpg" group-title="AYISH ADDED MOVIES",Mungkar (2024)
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=3qPFg%2B9XqRibp965OObTGg5GJs%2FvRQUTCZmjjC6tlEB2kwPMe%2FqN%2BSd5yXzeYgqv&expiry=FopVHJFSBivTeQgpiqldnw%3D%3D&mac=70ac9a85990c5b0ab4c7cb0366419350f9100e86390b22efb6fa3953af6f6df0
 
-#EXTINF:-1 tvg-logo="https://assets.voxcinemas.com/posters/P_HO00011198.jpg" group-title="AYISH UPDATE 2024",Golam (2024)
+#EXTINF:-1 tvg-logo="https://assets.voxcinemas.com/posters/P_HO00011198.jpg" group-title="AYISH ADDED MOVIES",Golam (2024)
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/indian/Golam.mp4?uuid=rkh
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEzYjU4MTgtOWM0MC00NThiLThhNTgtYmU4NmY0MWIxMWY3XkEyXkFqcGdeQXVyMTc3MDc1MDQ0._V1_FMjpg_UX1000_.jpg" group-title="AYISH UPDATE 2024",Rooban (2024)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmEzYjU4MTgtOWM0MC00NThiLThhNTgtYmU4NmY0MWIxMWY3XkEyXkFqcGdeQXVyMTc3MDc1MDQ0._V1_FMjpg_UX1000_.jpg" group-title="AYISH ADDED MOVIES",Rooban (2024)
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/indian/Rooban 2024.mp4
 
-#EXTINF:-1 tvg-logo="https://images.static-bluray.com/products/20/158530_1_front.jpg" group-title="AYISH UPDATE 2024",Hijack 1971 (2024)
+#EXTINF:-1 tvg-logo="https://images.static-bluray.com/products/20/158530_1_front.jpg" group-title="AYISH ADDED MOVIES",Hijack 1971 (2024)
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/oppa/hijack 1971.mp4?uuid=rkh
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/nzKWC2Gv0sOnkki5ZiqzD/408ca6fa123b048f59a94a0c863e7020/en_us_mc_main_main_ka_vertical_27x40_rgb_pre_1.jpg?" group-title="AYISH UPDATE 2024",mission cross (2024)
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/4cd45et68cgf/nzKWC2Gv0sOnkki5ZiqzD/408ca6fa123b048f59a94a0c863e7020/en_us_mc_main_main_ka_vertical_27x40_rgb_pre_1.jpg?" group-title="AYISH ADDED MOVIES",mission cross (2024)
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/oppa/mission.cross.mp4?uuid=rkh
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI4NmNlNDEtYjFmNS00N2U2LThiMmYtMDExYTc2ODNmOGEzXkEyXkFqcGdeQXVyMzE3OTE0NjQ@._V1_FMjpg_UX1000_.jpg" group-title="AYISH UPDATE 2024",Patna Shukla
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzI4NmNlNDEtYjFmNS00N2U2LThiMmYtMDExYTc2ODNmOGEzXkEyXkFqcGdeQXVyMzE3OTE0NjQ@._V1_FMjpg_UX1000_.jpg" group-title="AYISH ADDED MOVIES",Patna Shukla
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/indian/Patna Shuklla (2024) Hindi Subs Indo.mp4?uuid=rkh
 
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/nPMPiDkAI2n4u3vFBuAZnZgmMLS.jpg" group-title="AYISH UPDATE 2024",diwe hutan larangan 2024
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/nPMPiDkAI2n4u3vFBuAZnZgmMLS.jpg" group-title="AYISH ADDED MOVIES",diwe hutan larangan 2024
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/indo/diwe.mp4?uuid=rkh
 
 
-#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/7-g-et00403232-1719824679.jpg" group-title="AYISH UPDATE 2024",7G
+#EXTINF:-1 tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/7-g-et00403232-1719824679.jpg" group-title="AYISH ADDED MOVIES",7G
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/indian/7g.mp4?uuid=rkh
 
-#EXTINF:-1 tvg-logo="https://dvvy6louqcr7j.cloudfront.net/vista/HO00014942/heroPoster/Twisters.png" group-title="AYISH UPDATE 2024",Twister
+#EXTINF:-1 tvg-logo="https://dvvy6louqcr7j.cloudfront.net/vista/HO00014942/heroPoster/Twisters.png" group-title="AYISH ADDED MOVIES",Twister
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/nflix/twsiter.mp4
 
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://pics.filmaffinity.com/All_the_Long_Nights-137956574-large.jpg",All The Long Night
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://pics.filmaffinity.com/All_the_Long_Nights-137956574-large.jpg",All The Long Night
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=f6iDMoOGl1OHbkcDm8kiKNuLyK17NgexrioiL4sA8fLATH9IoTsQ0xAE9YvGh9Hj&expiry=i%2BtXjW0Vv%2BUYV5XPU6VBGw%3D%3D&mac=c8ecef0a5027cd9c59cfe7c0ea4ea310d2faa04e25dd3ab9e218132b0b2252dd
 
-#EXTINF:-1 group-title="AYISH UPDATE 2024" tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2024/03/Bhaiyya-Ji.jpeg",Bhaiyaa Ji
+#EXTINF:-1 group-title="AYISH ADDED MOVIES" tvg-logo="https://stat4.bollywoodhungama.in/wp-content/uploads/2024/03/Bhaiyya-Ji.jpeg",Bhaiyaa Ji
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/indian/Bhaiya Ji.mp4?uuid=rkh
 
 
-#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNNAS_IVP_LAND_917x516_2024729_193227.jpg" codec="external" group-title="AYISH UPDATE 2024",The Experts (2024)
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNNAS_IVP_LAND_917x516_2024729_193227.jpg" codec="external" group-title="AYISH ADDED MOVIES",The Experts (2024)
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/malay/The.Experts.2024.1080p.mkv
 
 
-#EXTINF:-1 tvg-logo="https://sediksi.com/wp-content/uploads/2023/07/Film-tari-Kematian.png" group-title="AYISH UPDATE 2024",Tari kematian (2024)
+#EXTINF:-1 tvg-logo="https://sediksi.com/wp-content/uploads/2023/07/Film-tari-Kematian.png" group-title="AYISH ADDED MOVIES",Tari kematian (2024)
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=RVth6q8Y%2FPS94AI6dqvaeMSKiRapkNHrOVHO3sx%2BNdbA%2F%2Fr6gFuJSElMDjJSSrda&expiry=FopVHJFSBivTeQgpiqldnw%3D%3D&mac=aa4aa020668c9cd0938ec97cb3c8292ede25b484255b526a243c47f8364b86b8
 
 
@@ -174,7 +174,7 @@ https://rkh.nexusbenelli.workers.dev/download.aspx?file=RVth6q8Y%2FPS94AI6dqvaeM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=319b72818e5bab7a754db7c451425a10:676ecd6239226626017367c017aab603
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt14539740%2F&psig=AOvVaw0TPDNfM8HlhFQdMacTGCfG&ust=1716274155953000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC3j83Rm4YDFQAAAAAdAAAAABAE",Godzilla x Kong (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt14539740%2F&psig=AOvVaw0TPDNfM8HlhFQdMacTGCfG&ust=1716274155953000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC3j83Rm4YDFQAAAAAdAAAAABAE",Godzilla x Kong (2024)
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f68eead3-7900-5dd8-8990-eacc3545df88/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -182,7 +182,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f68eead3-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e01f749167dc2deba29762cdf753610:2159637593ac5a3510f396778632bafe
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.ibb.co/bbWkq4w/MV5-BZm-Zj-Yz-E1-M2-Ut-Yj-I0-My00-Yz-Vk-LTky-Y2-Qt-NTIy-Zm-Y2-OTkw-ZDE4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIw-N.jpg",Koklir 2023
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.ibb.co/bbWkq4w/MV5-BZm-Zj-Yz-E1-M2-Ut-Yj-I0-My00-Yz-Vk-LTky-Y2-Qt-NTIy-Zm-Y2-OTkw-ZDE4-Xk-Ey-Xk-Fqc-Gde-QXVy-MTIw-N.jpg",Koklir 2023
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9e39e22f-a768-55c6-8a05-bac616f4ec86/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -190,623 +190,238 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9e39e22f-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8bca1d97bcb216b6504deb6e68c1310:e0a52a030e398e345c623f4de59e7042
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg", Dune: Part Two (2024) 
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg", Dune: Part Two (2024) 
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3ec3d9dc-5cdd-5373-af9c-d1ceb4dfdf92/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJiMzQ4ZGItMjczYS00MzM1LWI5NGMtNzBiYzExZGRmMGZkXkEyXkFqcGdeQXVyNTQ5ODMzODg@._V1_.jpg" group-title="AYISH UPDATE 2024", Dendam Hantu Viral (2024)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJiMzQ4ZGItMjczYS00MzM1LWI5NGMtNzBiYzExZGRmMGZkXkEyXkFqcGdeQXVyNTQ5ODMzODg@._V1_.jpg" group-title="AYISH ADDED MOVIES", Dendam Hantu Viral (2024)
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/malay/Telefilem Dendam Hantu Viral (2024) 1080p MalaySub.mp4?uuid=rkh
 
-#EXTINF:-1 tvg-logo="https://www.vietnam.vn/wp-content/uploads/2024/01/1704902650_950_Trailer-phim-Mai-he-lo-canh-nong-cua-Phuong-Anh.jpg" group-title="AYISH UPDATE 2024",Mai (2024)
+#EXTINF:-1 tvg-logo="https://www.vietnam.vn/wp-content/uploads/2024/01/1704902650_950_Trailer-phim-Mai-he-lo-canh-nong-cua-Phuong-Anh.jpg" group-title="AYISH ADDED MOVIES",Mai (2024)
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/nflix/Mai.mp4?uuid=rkh
 
 
-#EXTINF:-1 tvg-logo="https://www.vietnam.vn/wp-content/uploads/2024/01/1704902650_950_Trailer-phim-Mai-he-lo-canh-nong-cua-Phuong-Anh.jpg" group-title="AYISH UPDATE 2024",Mai (2024)
+#EXTINF:-1 tvg-logo="https://www.vietnam.vn/wp-content/uploads/2024/01/1704902650_950_Trailer-phim-Mai-he-lo-canh-nong-cua-Phuong-Anh.jpg" group-title="AYISH ADDED MOVIES",Mai (2024)
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=Uhk2Y6GRsFq6njaD6vo4qfn7MUkXwqNd%2FPAfRYJsKWlFn0lqMmtD4wWIGV30cLhM&expiry=7MEP4tKU%2BFAHq2GagJ0syQ%3D%3D&mac=f0b9d88567433a9a15352d279bccd306756ee0c86d15866dfc8cf76852cb51c3
 
-#EXTINF:-1 tvg-logo="https://images.filmibeat.com/img/popcorn/movie_posters/kill-20240210123456-22577.jpg" group-title="AYISH UPDATE 2024",Kill (2024)
+#EXTINF:-1 tvg-logo="https://images.filmibeat.com/img/popcorn/movie_posters/kill-20240210123456-22577.jpg" group-title="AYISH ADDED MOVIES",Kill (2024)
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=dt8DS%2BUFjnCfwIE2AdAgMKHpVbRnO4OyiQX2xRr3vV2ULPmn0S5diSetje7to5d%2F&expiry=tNfI4VN5p8UAqfchclvujA%3D%3D&mac=3f7b16d73e6b1e400cbe46e31c475ecd4d10066df64bc3c92c8cf9801ef93f41
 
 
 
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://fr.web.img4.acsta.net/pictures/24/01/15/10/00/5798065.jpg", Under Paris
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://fr.web.img4.acsta.net/pictures/24/01/15/10/00/5798065.jpg", Under Paris
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=5g91WvhdSAY%2F8BZ7u0m9zPiBuIZ71siVWQEVpZcmmUf2mJ0DJL8VNlBQTxhzx8mE&expiry=usBuCV%2Fco8uA3Dc%2FuEVDkg%3D%3D&mac=9dc3313ddf64f0701cf6c1fbac7a419a4e4278ce52932ee1c2ce035d164883cd
 
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://img.nowrunning.com/content/movie/2024/mahar-28590/bg_maharaja.jpg", Maharaja
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://img.nowrunning.com/content/movie/2024/mahar-28590/bg_maharaja.jpg", Maharaja
 https://od.tvpm.cc:443/movie/playlist/home3585/7392.mp4
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/183/2023/12/12/Kereta-Berdarah-siap-berikan-teror-pada-1-Februari-2024-580173603.jpg", Kereta Berdarah
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/183/2023/12/12/Kereta-Berdarah-siap-berikan-teror-pada-1-Februari-2024-580173603.jpg", Kereta Berdarah
 https://od.tvpm.cc:443/movie/playlist/home3585/7395.mp4
 
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://image.tmdb.org/t/p/original/fwAXx83bSpIqGlHfCPgAfMlS1Bg.jpg", Maidaan (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://image.tmdb.org/t/p/original/fwAXx83bSpIqGlHfCPgAfMlS1Bg.jpg", Maidaan (2024)
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=%2Ff%2FM1veC5fgCs1LfRh4UwzbW2HmTXZ9gFbOXHP2m%2FGFrGX1%2FyecgMOHZ5TryX1hV&expiry=8VgMBWyj8Sf34KYZUc9I2Q%3D%3D&mac=10437fd0c9dd6c6eb1ff7e8074ff288b11dc0cafcdeffeb30ebd615efce3403b
 
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjViNTVhY2QtZjE1OS00OWIyLTkyM2EtNmYwOTA0ZTdkZDRmXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg", Agak Laen (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjViNTVhY2QtZjE1OS00OWIyLTkyM2EtNmYwOTA0ZTdkZDRmXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_FMjpg_UX1000_.jpg", Agak Laen (2024)
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=cNFZ0SykQttpXC0x9UuCA4euD0NN%2FR%2BYaXeb9dIrwcoLohjThT01T5iWxXR19t2B&expiry=9Y43suGORh%2BDp4AmsRUC0A%3D%3D&mac=4386cc56da5a3cc4e8ed59081daf1b881eec4771d9658cd5ff8547fc1526b35f
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://image.tmdb.org/t/p/original/vbI5h1Enc3gscdmg7lRnG4jX4R7.jpg", A Quiet Place: Day One (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://image.tmdb.org/t/p/original/vbI5h1Enc3gscdmg7lRnG4jX4R7.jpg", A Quiet Place: Day One (2024)
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/nflix/quiet place.mp4?uuid=rkh
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://thefanboyseo.com/wp-content/uploads/2024/04/deadpool-wolverine-posters-1.jpg",Deadpool & Wolverine
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://thefanboyseo.com/wp-content/uploads/2024/04/deadpool-wolverine-posters-1.jpg",Deadpool & Wolverine
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/nflix/deadpool x wolverine.mp4
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.ytimg.com/vi/kAYOmh5Kh2U/maxresdefault.jpg", Die Hart 2 (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.ytimg.com/vi/kAYOmh5Kh2U/maxresdefault.jpg", Die Hart 2 (2024)
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=%2BUBlUM7%2B6Rv5j2GPL9nBlaBZacBsGhXOkvbGsBO3%2F9uC3A1xu64R9GVRJPZo%2FOVE&expiry=M8TL0FP%2F2bdPCaoC8UwoDQ%3D%3D&mac=153d2f021798e3f5a0b8d15d086844b894737db088cade508c6ae6c98cf1a1fc
 
 
-#EXTINF:-1 type="series" group-title="AYISH UPDATE 2024" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/atlas-movie-poster-showing-jennifer-lopez-looking-up-into-the-sky-flying-a-spaceship.jpg", Atlas (2024) HD
+#EXTINF:-1 type="series" group-title="AYISH ADDED MOVIES" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/atlas-movie-poster-showing-jennifer-lopez-looking-up-into-the-sky-flying-a-spaceship.jpg", Atlas (2024) HD
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=zcuQVezsfYp5mOWUmTX5MTvVAkegZx%2BqedHRmnqI0hYHYMacUv%2BT6iQgaDf%2FnWz%2B&expiry=ry2134T3a9OyRfVDcFijbQ%3D%3D&mac=dfa215143c6921c74e148e41b0d7b4ee0b0e4f3bfcbe172a79b09f554b7fa08f
 
-#EXTINF:-1 type="series" group-title="AYISH UPDATE 2024" tvg-logo="https://www.allentheatresinc.com/modules/movies/content/uploads/furiosa_a_mad_max_saga/furiosa_final.jpg", Furiosa: A Mad Max Saga (2024)
+#EXTINF:-1 type="series" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.allentheatresinc.com/modules/movies/content/uploads/furiosa_a_mad_max_saga/furiosa_final.jpg", Furiosa: A Mad Max Saga (2024)
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=UPtO0lBrwpRpgJm7%2FxOyXE0YvmMLu6dbMk7sF%2FZMIJerCmzZcdPjgwwJichmxS9C&expiry=EQBwv2qHu68alCCANNKMnQ%3D%3D&mac=6bfb7e267701991dcd4370569030bc97a381f02f84b687cf7fa9f0b172efccbf
 
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cEaQcjJ54T480chHkfuATPMXqKP.jpg", Ooru Peru Bhairavakona (2024) 
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cEaQcjJ54T480chHkfuATPMXqKP.jpg", Ooru Peru Bhairavakona (2024) 
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaeZzsqvvHVLtmt_gD3fuU4BcVckc-hUJ0OXfa--yUL00g
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s5pdvbLzQ2mt7G7A4ceGUUjhO7E.jpg", Anweshippin Kandethum (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s5pdvbLzQ2mt7G7A4ceGUUjhO7E.jpg", Anweshippin Kandethum (2024)
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbCjc_HJkXVGlwy0U2i4GWABFU-dqagsjC3nj7uscUydnQ
 
 #######################################################
 
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://iili.io/JUiKSou.md.jpg",Sheriff A 
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://iili.io/JUiKSou.md.jpg",Sheriff A 
 https://drive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Sheriff.2024.1080p.mkv
   
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tPy5fmJZ2AHJKJLq8uabIxhbYWn.jpg", The Fall Guy (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tPy5fmJZ2AHJKJLq8uabIxhbYWn.jpg", The Fall Guy (2024)
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=oB%2FoqEq8ymFadVdkfMz2kinjDqDJ%2FBkNyUjrWBceOyqM6ERxpv5SmvMujALWtVY8&expiry=M8TL0FP%2F2bdPCaoC8UwoDQ%3D%3D&mac=9e4bb5e05c425fee6d337fcd6e75976f3cf229c227371eebdb6535eefd90564d
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://lsf.go.id/wp-content/uploads/2023/01/164.-PF-Kutukan-Peti-Mati.jpg", kutukan peti mati
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://lsf.go.id/wp-content/uploads/2023/01/164.-PF-Kutukan-Peti-Mati.jpg", kutukan peti mati
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=w8iRZetj0f7Fx3rlJYGI62mURxGc3YOyUHQeyj1FH1MKDciRYm0R7jtgc7F7YPZy&expiry=MP0lUBxSC0WRk%2BfysyFOJA%3D%3D&mac=fff9414f80708f9d22ebb2ae586e17d88ae07ae0a917521763cb675d1583b23a
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://cdn.medcom.id/dynamic/content/2023/11/28/1635033/7C2cFJaoAH.jpg?w=1024", Hamka & Siti Raham Vol. 2
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://cdn.medcom.id/dynamic/content/2023/11/28/1635033/7C2cFJaoAH.jpg?w=1024", Hamka & Siti Raham Vol. 2
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=khKDv5obFgPWoXysnChHGW5Cwa8yCle4gocmXOf8Dv88i63%2Ffgdkd0JGPz9oaTcO&expiry=9Y43suGORh%2BDp4AmsRUC0A%3D%3D&mac=d9fbb9cbcac5aa3021304cc21d0cdbbc2824addeb66bacde687ddd2d01106e56
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZkNjYyZGUtZTE3Yy00NzBjLWE5ZWQtZWExYzAzNzJlMzNiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Layangan Putus
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZkNjYyZGUtZTE3Yy00NzBjLWE5ZWQtZWExYzAzNzJlMzNiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Layangan Putus
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=7Wxc%2BGs3X8DvElbzyxxGDnRIDeBVDePrEhrj7M%2FLGr6u%2BA0ZNNiZA%2FjxvheBEpvH&expiry=MP0lUBxSC0WRk%2BfysyFOJA%3D%3D&mac=e2c91704723edc10592cfb702ec2e70d65a2501bc473b60856929624d91e3353
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.ibb.co/fNK14F5/MV5-BYm-Q1-Njlj-NDEt-NGVm-ZC00-NTJl-LWFl-Mz-It-Yj-I0-Y2-Q5-MGVl-Nm-Y0-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ3-Mzk.jpg", Aavesham 2024
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.ibb.co/fNK14F5/MV5-BYm-Q1-Njlj-NDEt-NGVm-ZC00-NTJl-LWFl-Mz-It-Yj-I0-Y2-Q5-MGVl-Nm-Y0-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQ3-Mzk.jpg", Aavesham 2024
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=cgSnFEZDsugqc5l2cGAyZXBEgNxyNrLGB0nyBFY%2B0S%2BxxhJJUhJSykZdr4s%2FCOY2&expiry=8VgMBWyj8Sf34KYZUc9I2Q%3D%3D&mac=8c6fabc02c137f618c9f4dac4de528baf7c6b0da8a3a7333183db3b716c78c91
   
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.cinema.com.my/images/movies/2024/7trinilkembalikan00_450.jpg", Trinil 2024
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.cinema.com.my/images/movies/2024/7trinilkembalikan00_450.jpg", Trinil 2024
 https://rkh.nexusbenelli.workers.dev/download.aspx?file=mzgHrRm8PTF1mbEe2dCFtwvic3BAZYV5xUDVv5cFNKKtRfWWEB8zH6rIVzWvIJSH&expiry=MP0lUBxSC0WRk%2BfysyFOJA%3D%3D&mac=756d177bf793e510dcf200475db137ffaf0b72e2f97f2f99477a583dd4a11068
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDl-AaMgZgdhwg5lCGK987LxCm2EHN3F8c2yxDEOhPz7QtW1dk9ABoMT8jGD13-UOwXVnL4o3X7kbbGIktFtH7AIGr0lp8b3k45D8u1g9a4Q9N8pUXWzW8zGsakFVvZNBIiOhLJBYN9VLiEV_nZMi1zYGEH9QtH9BEPAJd27ozKDm6pp_cant8n4m60DB-/s16000-rw/PINGGAN%20RETAK%20DI%20TAPAK%20TANGAN.jpg", Pinggan Retak di Tapak Tangan 2024
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDl-AaMgZgdhwg5lCGK987LxCm2EHN3F8c2yxDEOhPz7QtW1dk9ABoMT8jGD13-UOwXVnL4o3X7kbbGIktFtH7AIGr0lp8b3k45D8u1g9a4Q9N8pUXWzW8zGsakFVvZNBIiOhLJBYN9VLiEV_nZMi1zYGEH9QtH9BEPAJd27ozKDm6pp_cant8n4m60DB-/s16000-rw/PINGGAN%20RETAK%20DI%20TAPAK%20TANGAN.jpg", Pinggan Retak di Tapak Tangan 2024
 https://drive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Pinggan.Retak.Di.Tapak.Tangan.2024.1080p.mp4
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/7604ae07ca514335a0b47eae973310ab/version/2/width/1280/height/720", Sepahtu Reunion Al Raya 2024
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/7604ae07ca514335a0b47eae973310ab/version/2/width/1280/height/720", Sepahtu Reunion Al Raya 2024
 https://drive.aqfadtv.xyz/api/raw/?path=/VOD/Series/Sepahtu-Reunion-Al-Raya/2024/Sepathu.Reunion.Al.Raya.S07E01.1080p.Sooka.WEB-DL.H264.AAC.mp4 
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdkNWE5MTgtNzgwZi00ZTcxLThlNGQtYmFhMDc4ZTEyZjk0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",Crakk: Jeetega... Toh Jiyegaa
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzdkNWE5MTgtNzgwZi00ZTcxLThlNGQtYmFhMDc4ZTEyZjk0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",Crakk: Jeetega... Toh Jiyegaa
 https://my.18tb.cc/Items/3db761587b420940236cc19a99bc6c4a/Download?api_key=48d184cc52144be3ade079370aa5f3fd  
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.imgur.com/RjIVEPv.jpeg", Mustaqim (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.imgur.com/RjIVEPv.jpeg", Mustaqim (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/mustaqim.2024.1080p.AAC.x264-KSO.mp4
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.ibb.co/8xM33D5/MV5-BNz-Jk-YWU3-YTEt-NTkx-OS00-NDlj-LThk-OGQt-Nj-Y2-Mj-Iz-Mm-Mw-MWVh-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU2-Nj-A.jpg",Nasi Lemak Kimci 2024
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.ibb.co/8xM33D5/MV5-BNz-Jk-YWU3-YTEt-NTkx-OS00-NDlj-LThk-OGQt-Nj-Y2-Mj-Iz-Mm-Mw-MWVh-Xk-Ey-Xk-Fqc-Gde-QXVy-MDU2-Nj-A.jpg",Nasi Lemak Kimci 2024
 https://di5jkouqm1xs.enaak-cdn.com/hls2/01/01415/q08nu16o1c94_,l,n,h,.urlset/master.m3u8?t=PNLSrNIf4SKdsOv4Q019D2VKlrjlZEd8DnqW-BxyI6w&s=1715254940&e=129600&f=7079046&srv=HHDdez0jie3n&i=0.4&sp=500&p1=HHDdez0jie3n&p2=HHDdez0jie3n&asn=9534
   
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u4BRvQ4ZD8JvaKmEnxEmgptJzcT.jpg", Bhimaa (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u4BRvQ4ZD8JvaKmEnxEmgptJzcT.jpg", Bhimaa (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Bhimaa%202024%201080p%20@FIUBS%20Sub%20Melayu.mp4
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sazCl3nmMzwpjNkePfcSm2XYmau.jpg", Silence 2: The Night Owl Bar Shootout (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sazCl3nmMzwpjNkePfcSm2XYmau.jpg", Silence 2: The Night Owl Bar Shootout (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Silence_2_The_Night_Owl_Bar_Shootout_2024_Hindi_@FIUBS_SubMelayu1.mp4
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gpHjWVPf8h8i40zOLBWKbkZGvW5.jpg", Siren (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gpHjWVPf8h8i40zOLBWKbkZGvW5.jpg", Siren (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Siren_2024_Tamil_1080p_WEB_DL_SubMelayu_@ceritasarikatamelayu.mp4
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rjcUv5KFKbIibbxeLIKUoNLeYZK.jpg", Anchakkallakokkan (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rjcUv5KFKbIibbxeLIKUoNLeYZK.jpg", Anchakkallakokkan (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Anchakkallakokkan%202024%20Malayalam%20@FIUBS%20SubMelayu.mp4
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1frolGcUT936IMcG6arjned55kL.jpg", Athomugam (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1frolGcUT936IMcG6arjned55kL.jpg", Athomugam (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Athomugam%20(2024)%20Tamil%20Subs%20Indo.mp4
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xM5jJxwAr01MFqV8nMbVUCgZZfG.jpg", Chaari 111 (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xM5jJxwAr01MFqV8nMbVUCgZZfG.jpg", Chaari 111 (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/HINDI/Chaari%20111%20(2024)%20Telugu%20Subs%20Indo.mp4
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTqW5D4qyPkKL6qFzA1gWsPyff3.jpg", E-Mail (2024) 
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTqW5D4qyPkKL6qFzA1gWsPyff3.jpg", E-Mail (2024) 
   
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://asianwiki.com/images/5/57/Exhuma-CMS1.jpg",Exhuma
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://asianwiki.com/images/5/57/Exhuma-CMS1.jpg",Exhuma
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Exhuma%202024%20Indo.mp4
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x4BkphLO6abbGhceYEMhJERkvHo.jpg", My Name Is Loh Kiwan (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x4BkphLO6abbGhceYEMhJERkvHo.jpg", My Name Is Loh Kiwan (2024)
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/movie/Asean/My%20Name%20Is%20Loh%20Kiwan%20(2024)%20KOREAN%201080p%20WEB-DL%20MalaySub.mp4
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqycEDHYiKyRENGLaB2BmxE3XuW.jpg", Eye for an Eye 2 (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cqycEDHYiKyRENGLaB2BmxE3XuW.jpg", Eye for an Eye 2 (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Asean/Eye%20For%20An%20Eye%202%20(2024)%20Subs%20Indo.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fNC4+L1oVvXUgUI/3awJGg","kid":"VH1TXCOeKmN7p/u46G2GEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLKRK_P_IVP_PORT_750x1126_2024127_155859.jpg",Jodoh Geng G 2024
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLKRK_P_IVP_PORT_750x1126_2024127_155859.jpg",Jodoh Geng G 2024
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ad3253cf-0f26-54f7-86ec-d3ff0b9d5e39/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mMZKINHlVbYxp39YGe+8EA","kid":"LuRxkZYYcXqkkudIyngHEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLCMO_P_IVP_PORT_750x1126_2024119_235549.jpg",Mark Masuk Jawi 2024
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLCMO_P_IVP_PORT_750x1126_2024119_235549.jpg",Mark Masuk Jawi 2024
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/4741b248-cec4-533b-9fba-44da77775828/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XVxpB8/siQCcsBpqiMAOKA","kid":"TumY92Ps2ClAAKZye7KnEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLCLO_P_IVP_PORT_750x1126_2024111_163555.jpg",Hantu Telekung 2024
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLCLO_P_IVP_PORT_750x1126_2024111_163555.jpg",Hantu Telekung 2024
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e6a83e18-778c-53ee-ab51-20c981e8a835/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"exN6WHZX6TqOlNsL7gx6VQ","kid":"X8KCRzebeUnfeDid5ek+EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=OTT_1/v4.11.3
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLIEZ_P_IVP_PORT_750x1126_2024112_155225.jpg",Langgar Pantang 2024
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLIEZ_P_IVP_PORT_750x1126_2024112_155225.jpg",Langgar Pantang 2024
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a5d7722b-2150-5c2d-b098-91a33e693eae/default_primary.mpd
  
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iiid1xMhoAcW83VJ9LdAqf4Vtbr.jpg", The Tiger's Apprentice (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iiid1xMhoAcW83VJ9LdAqf4Vtbr.jpg", The Tiger's Apprentice (2024)
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/movie/Toon/The.Tigers.Apprentice.2024.1080p.WEB-DL.MalaySub.bymovieclub.mp4  
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg", The Casagrandes Movie (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg", The Casagrandes Movie (2024)
 https://hello-world-old-queen-61b0.buntai.workers.dev/0:/movie/Toon/The%20Casagrandes%20Movie%20(2024)%201080p%20WEB-DL%20MalaySub.mp4
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cykmv1tPLJWHX4sml2VziRbrdr4.jpg", Anak Perjanjian Syaitan 2 (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cykmv1tPLJWHX4sml2VziRbrdr4.jpg", Anak Perjanjian Syaitan 2 (2024)
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbRWIHH2eZBKhyGdrriQ770BP6tApHbxpnTxAs6C8uufMg
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYwNGJmOWItYTM4YS00ZjZjLTkyZGMtMDA4MWM1OTFjZTBlXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Peluang Ketiga (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGYwNGJmOWItYTM4YS00ZjZjLTkyZGMtMDA4MWM1OTFjZTBlXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_.jpg", Peluang Ketiga (2024)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZI7_lwC9AJFk5MojbhcX1IBCAIga2C2Zvli5gcOuh-wBw
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.imgur.com/aEbKkDK.png", Asan Lembu (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.imgur.com/aEbKkDK.png", Asan Lembu (2024)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfhO9maiqgVBgHORbP4MvDgBU0xBE9waKHewUyIXx33jcA
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.imgur.com/qkN8lLM.jpeg", Daddy Duda (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.imgur.com/qkN8lLM.jpeg", Daddy Duda (2024)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaqER-zb9WdIsqIP9ppqFQoBM2x1qYX5JOUAyl1GWlMfSg
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/289ddab636c94c579efc5824274ece22/version/4/width/1280/height/720", Travelawak Bapak-Bapak Balik Kampung (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/289ddab636c94c579efc5824274ece22/version/4/width/1280/height/720", Travelawak Bapak-Bapak Balik Kampung (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Travelawak%20Bapak%20Bapak%20Balik%20Kampung%20(2024).mkv
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.imgur.com/ObId2Tx.jpeg", Kasihnya Angah (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.imgur.com/ObId2Tx.jpeg", Kasihnya Angah (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/%5B@Kongsi_Series%5DKasihnya.Angah.2024.720p.AAC.x264-KSO.mp4
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.imgur.com/NUbZ0ey.jpeg", Hijab Pendosa (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.imgur.com/NUbZ0ey.jpeg", Hijab Pendosa (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/hijab.pendosa.2024.web.h264-ProAce.mkv
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/TERHIJABNYA-PINTU-SYURGA-POSTER.jpg", Terhijabnya Pintu Syurga (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/TERHIJABNYA-PINTU-SYURGA-POSTER.jpg", Terhijabnya Pintu Syurga (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Terhijabnya.Pintu.Syurga.2024.720p.AAC.x26.Me&Friend.Mp4
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.imgur.com/ZiyySnn.jpeg", Lukisan Hati Umar (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.imgur.com/ZiyySnn.jpeg", Lukisan Hati Umar (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Lukisan.Hati.Umar.2024.1080p.AAC.x264-KSO.mp4
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.imgur.com/lGHHFEz.jpeg", Syurga Yang Tersia (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.imgur.com/lGHHFEz.jpeg", Syurga Yang Tersia (2024)
 https://calm-rain-70b4.buntai.workers.dev/0:/movie/Malay/Syurga%20Yang%20Tersia%20(2024)%20Malay.mp4
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2UjXKTrlPnEqqnhSwnZBoqxg8mq.jpg", 19 Puasa : Playboys of Plestik Hitam FHD (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2UjXKTrlPnEqqnhSwnZBoqxg8mq.jpg", 19 Puasa : Playboys of Plestik Hitam FHD (2024)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Eb1gnl--JGZGu1wJ5umsGdgB9K2v5Wg_laXrShRjSUvoYw
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc5MDU4Y2UtNTkxYS00MWU3LWJjMDQtMTdmZjQxNDA2NDFhXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg", Yie Prehh (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc5MDU4Y2UtNTkxYS00MWU3LWJjMDQtMTdmZjQxNDA2NDFhXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg", Yie Prehh (2024)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EakvKvPKLP9NvFrUgUqOk64BVBY3lo97RynTW5HuCW4NyA
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3fb697edbb8d484b93a40b5718e26526/version/3/width/1280/height/720", Mati Hidup Balik (2024) FHD
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/3fb697edbb8d484b93a40b5718e26526/version/3/width/1280/height/720", Mati Hidup Balik (2024) FHD
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETnKKBQqUvVIq7eExFvQ9xsBhAxXjUr2Ka6Fm5yWSZbcDA
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.imgur.com/vXGsh50.jpg", Hentian Gerik (2024) FHD
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.imgur.com/vXGsh50.jpg", Hentian Gerik (2024) FHD
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdWdNO82ghtKr_wJdBmJrGUBYlNi7pVDWFM9n00J-nrE9w
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.imgur.com/tOtN2hG.jpg", Rampok (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.imgur.com/tOtN2hG.jpg", Rampok (2024)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETxqcmvy8H1Nre6zxjTHag4B80NbrEIiP48LdFPY1pJcgQ
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.imgur.com/aByMV4j.jpg", Warong (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.imgur.com/aByMV4j.jpg", Warong (2024)
 https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbA4YOwfbU1LjqGOGW31XVIBwkOEkAsFf8t1UJ7Vf_XJjw
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://i.imgur.com/LD1shgE.jpg", Langgar Pantang (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://i.imgur.com/LD1shgE.jpg", Langgar Pantang (2024)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Malay/Langgar.Pantang.2024.1080p.AAC.x264-KSO.mp4
 
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8GwRZHBW4YCGhFsDkY7L8OIGW1x.jpg", From the Ashes (2024)
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8GwRZHBW4YCGhFsDkY7L8OIGW1x.jpg", From the Ashes (2024)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/From.the.Ashes.2024.1080p.WEB-DL.MalaySub.bymovieclub.mp4
 
 
-#EXTINF:-1, type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jojfbnIHGsRpodIood3OQoqA45Y.jpg", Sixty Minutes (2024)
+#EXTINF:-1, type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jojfbnIHGsRpodIood3OQoqA45Y.jpg", Sixty Minutes (2024)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Sixty.Minutes.2024.GERMAN.1080p.WEB-DL.MalaySub.bymovieclub.mp4
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://www.bosshunting.com.au/wp-content/uploads/2023/01/324555226_645786530656666_1537686233953299973_n-960x1200.jpg", Road House 2024
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://www.bosshunting.com.au/wp-content/uploads/2023/01/324555226_645786530656666_1537686233953299973_n-960x1200.jpg", Road House 2024
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/nflix/road house.mp4?uuid=rkh
   
-#EXTINF:-1 type="movie" group-title="AYISH UPDATE 2024" tvg-logo="https://thenationroar.com/wp-content/uploads/2020/06/91liArnqwNL._RI_-copy.jpg", Kung Fu Panda 4 Eng Sub
+#EXTINF:-1 type="movie" group-title="AYISH ADDED MOVIES" tvg-logo="https://thenationroar.com/wp-content/uploads/2020/06/91liArnqwNL._RI_-copy.jpg", Kung Fu Panda 4 Eng Sub
 #EXTVLCOPT:http-referrer=rkhott2024
 https://rkhdigital.website/nflix/kungfu panda.mp4?uuid=rkh
 
 
-##################################################BOLLYWOOD#######################################################################
 
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s2tP3R39ZWo8CN90GuBTMvmXiBW.jpg", The Warriorr (2022)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EeZpYFWOIDJIgX9iptX_7xwBuK0_acpvUP6vK98DcViwBQ
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/18J8x7VcEJjfjfinAYbNLUsMzML.jpg", Double Engine (2024)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXw2A0aVzE9KmCmk95eernwBVAVvdkuOVJ2FTp42-mjslw
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A2rFSihwKXEp6kxdxHJPaLaCw39.jpg", Patna Shuklla (2024)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EU5HRCfm37JGhXN11nQMyEoBoUCqZRDRfuvF9ZrfzSLn-A
-
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gOFBpQBRcPFZWEkzRWnQgQHku4T.jpg", Ae Watan Mere Watan (2024) FHD
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbqS4X0S_LRFvZqzGTAWN68BnK1LDsd6XApC7LDAOnYsog
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg", Fighter (2024)
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZvO-LkPpFJHvHnx98zz-s0BWIsLAcNTHdMDlovh2LENEw
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/16Uq9KbcNDQtI48E6xwyb8wk9x9.jpg", Hanu-Man (2024)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdfJk4FCfo1Om19k_x16LvoBois2LcwPh27S-PRYOjkumg
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5JdoPaXlLt4fYu2V8Ug12QRiQ89.jpg", Chithha (2023)
-https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVjfNY6bN3RHtPv-XoKHP1cBylmONSSUi7o0L_hVWpkYJQ
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/joU5VihgUvkhyPnhzxfjmWk32rd.jpg", Murder Mubarak (2024)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EWKOz8JPbjdPlrj7IAWFAw8BpPLskeO5A-w8epTEKHhVBg
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cEaQcjJ54T480chHkfuATPMXqKP.jpg", Ooru Peru Bhairavakona (2024) 
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EaeZzsqvvHVLtmt_gD3fuU4BcVckc-hUJ0OXfa--yUL00g
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s5pdvbLzQ2mt7G7A4ceGUUjhO7E.jpg", Anweshippin Kandethum (2024)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EbCjc_HJkXVGlwy0U2i4GWABFU-dqagsjC3nj7uscUydnQ
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8HOqipGorQ7eYDJk7UOkPa5lw8o.jpg", Tiger 3 (2023)
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EZR6LSWByYVEm9xEL4itNFAB9xhJfYcswxA1DPeGPaF2Xw
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8HOqipGorQ7eYDJk7UOkPa5lw8o.jpg", Tiger 3 B (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Tiger%203%20(2023).mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glgCXwJMd9IHSLBocsr8N1te3Sf.jpg", Parking (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Parking%20(2023)%20Tamil%20Subs%20Malay.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rC1Y6fjwcJWUz8lh5d4v0bEa8t2.jpg", The Y (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/The%20Y.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jP7UD68XxMEjogUVP4LTTbGhwdo.jpg", The Great Indian Suicide (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/The%20Great%20Indian%20Suicide.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yF08k0Hm0sH0bpOZYJWAmbjqDgi.jpg", Thudikkum Karangal (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Thudikkum%20Karangal.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rQ2lPXyAwm0c5Sre9xyvnTPEt0Z.jpg", Thuramukham (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Thuramukham.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w2lHwZziSh2ngcKGE6xM0SqvX5q.jpg", The Road (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/The%20Road.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p1tdHXmGGLc8o8kTImZi5iPXcu3.jpg", Munna Michael (2017)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Munna%20Michael.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zZxBWGqdoQ3lX7oPjtI41Yby59j.jpg", Mangalavaaram (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mangalavaaram%20(2023)%20Telugu%20Subs%20Malay.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mAuD8aAiTK6U4xOnoqSHgZPcwbM.jpg", Salaam Venky (2022)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Salaam%20Venky%20(2022)%20Hindi%20Subs%20Indo.mkv
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKxshL5odOYhaeA2GQD5W2k37ZY.jpg", Mulk (2018)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mulk.mkv
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rEpICSg7LRqAwwhkfd7VX1w5kjm.jpg", Toby (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Toby%20(2023)%20@FIUBSKannada%20SubMelayu.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hCNl3EkwEAmuZt8vxq9gyGG3e7e.jpg", Yaadein (2001)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Yaadein.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mI4cFL7bEQcTgI6vtoPSkAWU1tJ.jpg", Tumko Na Bhool Paayenge (2002)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Tumko%20Na%20Bhool%20Paayenge.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jcmxwDdWYYXTlejkeTTabeZ4k82.jpg", Phoenix (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Phoenix_2023_Malayalam_1080p_WEB_DL_SubMelayu_@ceritasarikatamelayu.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8TNnEojAEc8Kt6HMWgQNRPcL9J3.jpg", Kadaisi Vivasayi (2022)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Kadaisi%20Vivasayi.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg", Mardaani 2 (2019)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mardaani%202.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A5xP8gKA4NwL9dG0AodQtQSRucB.jpg", Mardaani (2014)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mardaani.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nmFL0KThULuggh7DxUimi5XTTWu.jpg", Manjhi The Mountain Man (2015)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Manjhi-%20The%20Mountain%20Man.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8lVuWmArvr41CvyvpgI3elD5iB1.jpg", Barfi! (2012)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Barfi!.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IYD22njFAvEPesAC6IGoblix01.jpg", Raid (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/%5BHHH%5DRaid%20(2023)%20@FIUBS%20Tamil%20SubMelayu.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7uvrgiyfDfJ5spDNa9u6LWfcnJU.jpg", I (2015)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/I%20(2015)%20Tamil%20Subs%20Malay.mkv
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rzSBCrS7ZSkB8quje1Na31gRze.jpg", Leo (2023)
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EW2ExTC60EtOpSX4W-a7U1wB7E6Wfw7UN4H0ArlyVwSMjQ
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j7Kt4Yc4Do58YhgEW38EY9RSBvr.jpg", Big Brother (2007)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Big%20Brother.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg", Jawan (2023) x265
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=ETpnzDOklGlChwDMlKxgNe8B10RRsMohaQRkXexsajp80g
-
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/12VEUEHebd9ydQs0Y4ikzb179LY.jpg", Bodyguard (2011)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Bodyguard.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m8x6I2qf3R98HtF4DmJXcdxCU64.jpg", Rab Ne Bana Di Jodi (2008)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Rab%20Ne%20Bana%20Di%20Jodi.mp4
-
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wRJRb5gQjQAthgkHxOKXcUEXBNo.jpg", Lucky Man (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Lucky%20Man.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rlD2KQPbZ1Q3BI5jXO2YVRN8r3f.jpg", Chakravyuham The Trap (2023)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Chakravyuham.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tGsrKN6tmJgWPjoBxMeD43MkpLC.jpg", Poochandi (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Poochandi.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yJ2JqgfWniQLnXPM5WkM7f1rqaY.jpg", Kisi Ka Bhai Kisi Ki Jaan (2023)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Kisi%20Ka%20Bhai...%20Kisi%20Ki%20Jaan.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pLjgNPF9d78ifCuaY7zb9Xxd9oc.jpg", Farhana (2023)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Farhana.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5qzzl6xg81QRRAuBGxjcClvaQ8A.jpg", Pichaikkaran 2 (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Pichaikkaran%202.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5E9TjPijGlsd1nkdzEhJkxDoPHR.jpg", Custody (2023)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Custody.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ctjc6rGXxg0opjqz4ywmkkqyiT.jpg", Maruthi Nagar Police Station (2023)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Maruthi%20Nagar%20Police%20Station.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e9uffrN9z22uuiBF9B0bTDDvbjz.jpg", Dookudu (2011)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Dookudu.mkv
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1JU2kNk4D7B5E2sWY2IMbyMqjqe.jpg", Okkadu (2003)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Okkadu.mp4
-
-#EXTINF:-1 typ="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a3kM4CBTSI4NC8KYeSRJCh55liV.jpg", Bajirao Mastani (2015)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EShrpYSXluBKg4sNq6MCuSwB5vQgbEzfobuNtEsj9Ly_wg
-
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHQoPISBmpOeBIZQGTNTqaUFSsX.jpg", Gurudev  Hoysala (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Gurudev%20Hoysala.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WZhvZOdh3Yh9odghyyKWaYsVoN.jpg", Pathu Thala (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Pathu%20Thala.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9jYssBJkPynlxoTV13BQTZlpfyD.jpg", Agilan (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Agilan.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg", Pathaan (2023)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Pathaan.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ubxLXZbSXi3MWk8nZRBDEoqfB0.jpg", Main Prem Ki Diwani Hoon (2003)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Main%20Prem%20Ki%20Diwani%20Hoon.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg", Vikram Vedha (2017)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Vikram%20Vedha.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gSpjOWcstwm6jC2kkfhF22CRskl.jpg", Kuttey (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Kuttey.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mLK1ER5Kzpsse789vBKnp8S1aRB.jpg", Vaathi (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Vaathi.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85qkXShLwTYZHYFOzaA6MbWqnjG.jpg", Vasantha Mullai (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Vasantha%20Mullai.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nYUIyP53CHBjDUci5hGmmpSVjNB.jpg", Veera Simha Reddy (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Veera%20Simha%20Reddy.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qLQKCGNAl5b0DZihbyWhtLzESwR.jpg", Thunivu (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Thunivu%20(2023)%201080p%20MalaySub%20-%20HHH.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bFK2aiWeRs4Q1zQLsyk6JRZoQLg.jpg", Karan Arjun (2022)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Karan%20Arjun.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3UaA5QZ6QQ8So85Yqjz049Bvt0h.jpg", Miral (2022)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Miral.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2aWWQNECR1fUWYy1nJHhZUlJpnR.jpg", Mission Majnu (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Mission%20Majnu.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9fz37GKiZvM1NerWpKokpnCKDEf.jpg", Pattathu Arasan (2022)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Pattathu%20Arasan.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zFrFcSRKZVquY5MGunj03banzaH.jpg", Laththi (2022)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Laththi%20Charge.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmZiNTI0YTMtNTQ0NS00ZTkyLTgyMjQtMmM1NmM2NTU3MjQ3XkEyXkFqcGdeQXVyMTM1MzQxNDM1._V1_FMjpg_UX1000_.jpg", R23 Criminal's Diary (2022)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/R23%20Criminal's%20Diary.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clQbK0qqazhySSHYmekPL3gDieu.jpg", Prince (2022)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Prince.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gkKA5pR0Nm0xoqnbfGds7sPdQ4X.jpg", Gatta Kusthi (2022)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Gatta%20Kusthi.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wk8Vu0DI0MiNLaXXiVqAwjLRKL5.jpg", Drishyam 2 (2022) HINDI
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Drishyam%202_2.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x61qdvHIsr9U53FwoLVDQqAGur0.jpg", Brahmastra Part One Shiva (2022)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Brahmastra%20Part%20One-%20Shiva.mp4
-
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sTNlPGZZyIAQeRVrtYYnBG5agxs.jpg", Thuppakki (2012)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Thuppakki.mp4
-
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dWYGHG6yIG8Fh8LwhbGnnaYNYyX.jpg", Khuda Haafiz Chapter 2 : Agni Pariksha (2022) ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â°ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¥
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Khuda%20Haafiz%20Chapter%202-%20Agni%20Pariksha%20(2022).mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67CrBgNWZ4kARZNjRvLu8ZUZojh.jpg", Khuda Haafiz (2020)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Khuda%20Haafiz.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/i6wx0LlqYbFO8qb2CuZcfj7dfW9.jpg", Aruvam (2019)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Aruvam.mkv
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/jFHbrNh6LMnKKSz7nlflFyrwK5T.jpg", PUSHPA THE RISE (2021)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Pushpa-%20The%20Rise%20-%20Part%201.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RiZDVjYWEtZGNhYy00ZGU0LTgwZjMtZTJmNmMyNGQ5NGYyXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg", Drisyam 2 (2021)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Drishyam%202.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/original/7iLUbpIBWCcQeagdgx3fC9uCoz5.jpg", Kaappaan (2019)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Kaappaan.mkv
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/dN3fwrFaSqg07ACvN6HZZYbwyQr.jpg", Baaghi 2016
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Baaghi.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/1E2lUedrxlzIgReszV0OuJ5JpvG.jpg", Baaghi 2 2018
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Baaghi%202.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/14nxzkz2ZE0BXoywF6UnP5rjfcL.jpg", Baaghi 3 2020
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Baaghi%203.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg", War 2019
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/War.mkv
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/hh7D1fLjet1Ce1kcCkk5TVr3g9O.jpg", Dhruva 2016
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Dhruva.mkv
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/xh9sPcIEIdco1EzBaEXmuPlZv44.jpg", Zanjeer 2013
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Zanjeer.mkv
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/oz1BLUe7bC6GWQpAa1aneMQFacI.jpg", Racha 2012
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Racha%202012.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/qNYG0NLXcdZEW56pcOjrm0w6Vos.jpg", Bruce Lee : the fighter 2015
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Bruce%20Lee%20-%20The%20Fighter.mkv
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/a0hFV8G0ofyPgPEjVcYrueuxFex.jpg", Bharat ennum naan
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Bharat%20Ane%20Nenu%20(2018)%20malay%20sub.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/dYpqpA7BsDHeyAGs9AAEPhZmbck.jpg", Nenokkadine
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/1-%20Nenokkadine%20Malay.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/4pAnEs9FUCP3ul0KN1pLYP9FSBa.jpg", Aagadu
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Aagadu%20Malay.mkv
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/sWxWTWCdMfjL8CmoVdQWttifBSd.jpg", Sarileru neekevvaru
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Sarileru%20Neekevvaru.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/9r4LCgznHZWg2vdxbZRqnlFpKIC.jpg", Sarrainodu
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Sarrainodu.mkv
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/euSAn9sVeS4Qnaj1ZWDw56gPi9W.jpg", Yevadu
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Yevadu.mkv
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/rLJ3xyM5iFCfXNSbDOkGZ5ms6oX.jpg", DJ
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/DJ-%20Duvvada%20Jagannadham.mkv
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/rNIsCxgrtOGRDDa4P06tfgKbxua.jpg", Race gurram
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Race%20Gurram.mkv
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.themoviedb.org/t/p/w500/ojs8b5N2BgFYoHCSb6vu0egZb6v.jpg", Kaabil
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Kaabil.mp4
-
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://media1.fdncms.com/connectsavannah/imager/u/zoom/8314470/249103h1.jpg", NAA PERU SURYA NAA ILLU INDIA
-https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/HINDI/Naa%20Peru%20Surya%20-%20Naa%20Illu%20India.mkv
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Dil_Kya_Kare.png/220px-Dil_Kya_Kare.png", Dil Kya Kare
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Dil%20Kya%20Kare.mkv
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/484.jpg", Dangal
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Dangal.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/3431.jpg", Bang Bang!
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EfXyALul2d5HvwTksusXg6EB6vBR5Jggx1KRP4g84Hn15g
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/617.jpg", Dilwale Dulhania Le Jayenge
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Dilwale%20Dulhania%20Le%20Jayenge.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/821.jpg", Mann
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Mann.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/4036.jpg", Mujhse Dosti Karoge!
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Mujhse%20Dosti%20Karoge!.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/1546.jpg", Mujhse Shaadi Karogi
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Mujhse%20Shaadi%20Karogi.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/489.jpg", Har Dil Jo Pyar Karega
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Har%20Dil%20Jo%20Pyar%20Karega.mkv
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/483.jpg", Bajrangi Bhaijaan
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Bajrangi%20Bhaijaan.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/54.jpg", Bahubali: The Beginning
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQ-iJ_06BoFPpfqpTMCdyL4BxKR9xdtw9QDF9ozJ-BBjNg
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://img.etimg.com/thumb/msid-58237253,width-640,resizemode-4,imgsize-106584/the-truth-unfolds.jpg", Bahubali: The Conclusion
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXNwmYZSRX5IoxR4I0reKgEBCfjKrgwBFP2xQUN4bkE09A
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/176.jpg", K.G.F Chapter 1
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/K.G.F-%20Chapter%201.mkv
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/485.jpg", Bigil
-https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=ES3QoGUq7vRCmnoPFfs-GBQBAHYAxfoqVBAh33YEHl7d2w
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Raat_Akeli_Hai_film_poster.jpg", Raat Akeli Hai
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Raat%20Akeli%20Hai.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Radhe_film_poster.jpg", Radhe
-https://hello-world-old-queen-61b0.buntai.workers.dev/0:/simpan/backupi/Radhe-%20Your%20Most%20Wanted%20Bhai.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTZlNmE2YjAtM2NhOC00YTYwLWJhYzgtMTI3YjFhYTFlNDg3XkEyXkFqcGdeQXVyMTI0MjU5MzUw._V1_.jpg", Halahal (2020)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Halahal.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Kick_%282014_film%29_Official_release_poster.jpg", Kick (2014)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Kick.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg", 3 Idiots (2009)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/3%20Idiots.mp4
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://ww69.ohflix.net/uploads/video_thumb/589.jpg", Ratsasan
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Ratsasan.mkv
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Raatchasi_Poster.jpg", Raatchasi (2019)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Raatchasi.mp4
-
-#EXTINF:-1 type="movie" group-title="Bollywood" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/gabbar-is-back-20150428135944-12691.jpg", Gabbar Is Back (2015)
-https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=Ebpzplo10ZBPlxoT1H_vza8BL2dn7ZDBHzeEecXyw--mhQ
-
-
-################################################################## P RAMLEE ################################################
-
-
-
-
-
-
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Pendekar Bujang Lapok
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Pendekar%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Seniman Bujang Lapok
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Seniman%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Bujang Lapok
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1957%5D%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ali Baba Bujang Lapok
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1961%5D%20Ali%20Baba%20Bujang%20Lapok%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anak Bapak
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Anak%20Bapak%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Keluarga 69
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1967%5D%20Keluarga%2069%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Tiga Abdul
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Tiga%20Abdul%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ibu Mertuaku
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Ibu%20Mertuaku%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Do Re Mi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nasib Do Re Mi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Nasib%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Laksamana Do Re Mi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1972%5D%20Laksamana%20Do%20Re%20Mi%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Masam Masam Manis
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1965%5D%20Masam%20Masam%20Manis%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Labu dan Labi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1962%5D%20Labu%20dan%20Labi%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nasib Si Labu Labi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1963%5D%20Nasib%20Si%20Labu%20Labi%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Enam Jahanam
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1969%5D%20Enam%20Jahanam%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Nujum Pak Belalang
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Nujum%20Pak%20Belalang%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ahmad Albab
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Ahmad%20Albab%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Madu Tiga
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Madu%20Tiga%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Rachun Dunia
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1950%5D%20Rachun%20Dunia%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Juwita
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1951%5D%20Juwita%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anjuran Nasib
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1952%5D%20Anjoran%20Nasib%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Hujan Panas
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Hujan%20Panas%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ibu
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1953%5D%20Ibu%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Merana
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Merana%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Panggilan Pulau
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1954%5D%20Panggilan%20Pulau%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Abu Hasan Penchuri
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Abu%20Hasan%20Penchuri%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Hang Tuah
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Hang%20Tuah%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Penarek Becha
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1955%5D%20Penarek%20Becha%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Anakku Sazali
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Anakku%20Sazali%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Semerah padi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1956%5D%20Semerah%20Padi%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sarjan Hassan
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sarjan%20Hassan%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sumpah Orang Minyak
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1958%5D%20Sumpah%20Orang%20Minyak%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Musang Berjanggut
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1959%5D%20Musang%20Berjanggut%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Antara Dua Darjat
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1960%5D%20Antara%20Dua%20Darjat%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Kanchan Tirana
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Kanchan%20Tirana%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ragam P Ramlee
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Ragam P Ramlee - Mintak Nombor Ekor
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1964%5D%20Ragam%20P%20Ramlee%20-%20Mintak%20Nombor%20Ekor%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Sabarudin Tukang Kasut
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1966%5D%20Sabarudin%20Tukang%20Kasut%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Di Belakang Tabir
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Di%20Belakang%20Tabir%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Dr Rushdi
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1970%5D%20Dr%20Rushdi%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Gerimis
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1968%5D%20Gerimis%20VCD.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Jangan Tinggal Daku
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Jangan%20Tinggal%20Daku%20SDTV.mp4
-#EXTINF:-1 group-title="Pramlee" tvg-logo="https://i.imgur.com/CYe1wpn.jpg", Putus Sudah Kasih Sayang
-https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%5B1971%5D%20Putus%20Sudah%20Kasih%20Sayang%20SDTV.mp4
 
 
 
